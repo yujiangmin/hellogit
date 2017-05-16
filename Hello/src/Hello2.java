@@ -6,6 +6,7 @@ public class Hello2 {
 		System.out.println("hello!");
 		System.out.println("hello, again!");
 		System.out.println("hello from author 2!");
+		System.out.println("hello from master author 1!");
 	}
 
 }
